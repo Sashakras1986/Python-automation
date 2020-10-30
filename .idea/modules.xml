@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../GIT/Stepik-auto-tests-course/.idea/Stepik-auto-tests-course.iml" filepath="$PROJECT_DIR$/../../GIT/Stepik-auto-tests-course/.idea/Stepik-auto-tests-course.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../GIT/WEB_DRIVER/.idea/WEB_DRIVER.iml" filepath="$PROJECT_DIR$/../../GIT/WEB_DRIVER/.idea/WEB_DRIVER.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,2 +1,3 @@
-That's my new README
-dskngjfdkgjfd
+Hi dear
+I am now using git for my projects
+
